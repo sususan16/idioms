@@ -1,0 +1,31 @@
+.section{
+	color: blue;
+text-decoration: underline;
+}
+
+.top{
+	color: black;
+font-weight: bold;
+text-decoration: none;
+border: 1px solid white;
+border-radius: 50px;
+background-color:green;
+}
+
+a:hover{
+	background-color:white;
+font-size: 30px;
+transition: font-size 3s;
+}
+body{
+	background-color:silver;
+}
+
+.ql{
+	color: black;
+font-weight: bold;
+text-decoration: none;
+border: 1px solid white;
+border-radius: 50px;
+background-color:black;
+}
